@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CSP2P.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="remUser" Description="记住学号" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="User" Description="记住的学号" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="windowSizeMain" Description="主界面默认大小" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">285, 569</Value>
+    </Setting>
+    <Setting Name="windowPosMain" Description="主界面距左上角距离" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">50, 50</Value>
+    </Setting>
+    <Setting Name="remWindowMain" Description="是否记住窗口位置信息" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="friends" Type="System.Windows.Forms.ListViewItem" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="defaultNIC" Description="默认网卡名" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="IPNodes" Description="IP配置" Type="IPNode[]" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="defaultIPNodeName" Description="默认IP配置名" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
